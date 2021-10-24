@@ -1,0 +1,9 @@
+Team Data Science Process
+
+This file details links where you can find the information about the Team Data Science Process that was presented in this module.
+
+Team Data Science Process (TDSP) Overview - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview
+
+TDSP Project Template (Github) - https://github.com/Azure/Azure-TDSP-ProjectTemplate
+
+TDSP Tools and Utilities (Github) - https://github.com/Azure/Azure-TDSP-Utilities
